@@ -1,0 +1,7 @@
+venv/
+data/
+*.pkl
+*.csv
+__pycache__/
+*.pyc
+.env
