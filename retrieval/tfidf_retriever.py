@@ -1,3 +1,8 @@
+"""
+TD-IDF Retrieval Agent.
+
+"""
+
 import pandas as pd
 import numpy as np
 
